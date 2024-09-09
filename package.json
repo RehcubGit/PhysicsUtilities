@@ -1,0 +1,13 @@
+{
+  "name": "com.rehcub.utilities.physics",
+  "version": "1.0.0",
+  "displayName": "Physics Utilities",
+  "description": "Some handy tools for Unity Physics",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Rehcub",
+    "email": "Rehcub@gmx.de",
+    "url": "https://github.com/RehcubGit"
+  }
+}
